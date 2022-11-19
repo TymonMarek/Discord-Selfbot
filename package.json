@@ -8,7 +8,7 @@
   },
   "author": "ulur"
   "repository": "https://github.com/TymonMarek/Discord-Selfbot/"
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "discord.js-selfbot-v13": "^2.9.3",
     "dotenv": "^16.0.3"
