@@ -4,6 +4,7 @@ Using a selfbot/userbot is highly against Discord's TOS. Do so at your own risk.
 
 # Setup
 
+0. Clone the repository down into a folder.
 1. Make sure you have Node.JS and NPM installed.
 2. Open a command prompt in the directory of the selfbot.
 3. Install packages by typing ```npm install``` in the command prompt.
