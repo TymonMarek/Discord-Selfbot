@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "ulur"
-  "repository": "https://github.com/TymonMarek/Discord-Selfbot/"
+  "author": "ulur",
+  "repository": "https://github.com/TymonMarek/Discord-Selfbot/",
   "license": "MIT",
   "dependencies": {
     "discord.js-selfbot-v13": "^2.9.3",
