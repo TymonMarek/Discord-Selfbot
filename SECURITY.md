@@ -11,4 +11,3 @@ Most recent versions only supported for vulnerability reports.
 State the vulnerability cause.
 State steps to reproduce the vulnerability.
 State the approximate time this vulnerability was first seen. (DD/MM/YYYY HH:MM)
-
